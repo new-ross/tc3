@@ -1,0 +1,4 @@
+flask-security[fsqla,common]
+braintree
+python-dotenv
+setuptools
